@@ -1,8 +1,0 @@
-<application>
-  <component name="HttpConfigurable">
-    <option name="PROXY_HOST" value="10.23.38.40" />
-    <option name="PROXY_PORT" value="8080" />
-    <option name="USE_PAC_URL" value="true" />
-    <option name="PAC_URL" value="http://scybernetwpad/wpad.dat" />
-  </component>
-</application>
