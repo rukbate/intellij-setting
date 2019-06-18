@@ -1,0 +1,27 @@
+<application>
+  <component name="libraryTable">
+    <library name="Python 3.7 (csl-api-banking) interpreter library">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/tools/python-3.7.3-embed-amd64/python37.zip!/" />
+        <root url="file://$USER_HOME$/tools/python-3.7.3-embed-amd64" />
+        <root url="file://$USER_HOME$/.IdeaIC2019.1/system/python_stubs/-290389650" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/tools/python-3.7.3-embed-amd64/python37.zip!/" />
+        <root url="file://$USER_HOME$/tools/python-3.7.3-embed-amd64" />
+        <root url="file://$USER_HOME$/.IdeaIC2019.1/system/python_stubs/-290389650" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+  </component>
+</application>
